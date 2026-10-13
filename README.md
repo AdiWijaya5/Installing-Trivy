@@ -72,7 +72,7 @@ stage('Security Scan (Trivy)') {
 
 ```
 
-# **Full Dokumentasi** https://trivy.dev/
+# **Full documentation go to** https://trivy.dev/
 
 
 
